@@ -1,0 +1,7 @@
+baseURL = "https://<your-github-username>.github.io/lantanomads/"
+languageCode = "en-us"
+title = "Lanta Nomads"
+# Update baseURL to your GitHub Pages URL before publishing
+
+[params]
+  description = "Information for remote workers coming to Koh Lanta, Thailand"

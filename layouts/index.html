@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <section>
+    {{ .Content }}
+  </section>
+  <section>
+    <h2>Topics</h2>
+    <ul class="topics">
+      {{ range .Site.RegularPages }}
+        {{ if ne .File.Path "content/_index.md" }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}

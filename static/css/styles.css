@@ -1,0 +1,9 @@
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height: 1.6; color: #222; margin: 0; }
+.wrap { max-width: 900px; margin: 0 auto; padding: 1rem; }
+.site-header { background: #0d6efd; color: white; padding: 0.6rem 0; }
+.site-header a { color: white; text-decoration: none; }
+.topics { list-style: none; padding-left: 0; }
+.topics li { margin: 0.4rem 0; }
+.post h2 { margin-top: 0; }
+a { color: #0d6efd; }
+.site-footer { margin-top: 3rem; padding: 1rem 0; background: #f7f7f7; }

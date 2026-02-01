@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <article class="post">
+    <h2>{{ .Title }}</h2>
+    <div class="content">{{ .Content }}</div>
+    <p><a href="{{ "/" | relURL }}">← Back to home</a></p>
+  </article>
+{{ end }}
