@@ -7,6 +7,7 @@ There is a more or less fixed schedule for the parties on the island. The big on
 ## Monday
 
 Pub Quiz at the [Irish Embassy](https://www.google.com/maps/search/?api=1&query=The+Irish+Embassy+Pub+Koh+Lanta)
+
 [Irie Bar](https://www.google.com/maps/search/?api=1&query=Irie+Bar+Restaurant+Koh+Lanta) - Live music
 
 ## Tuesday
@@ -29,5 +30,6 @@ First karaoke at [Free Descent](https://www.google.com/maps/search/?api=1&query=
 
 ## Sunday
 
-- [Horizon Bar](https://www.google.com/maps/search/?api=1&query=Horizon+Bungalow+Beach+Bar+Klong+Nin+Koh+Lanta)
-- [Pangea](https://www.google.com/maps/search/?api=1&query=Pangea+Beach+Bar+Koh+Lanta)
+[Horizon Bar](https://www.google.com/maps/search/?api=1&query=Horizon+Bungalow+Beach+Bar+Klong+Nin+Koh+Lanta)
+
+[Pangea](https://www.google.com/maps/search/?api=1&query=Pangea+Beach+Bar+Koh+Lanta)
