@@ -1,4 +1,5 @@
 [![Deploy Hugo site to GitHub Pages](https://github.com/aikedejongste/island-info/actions/workflows/deploy.yml/badge.svg)](https://github.com/aikedejongste/island-info/actions/workflows/deploy.yml)
+[![Markdown Lint](https://github.com/aikedejongste/island-info/actions/workflows/lint.yml/badge.svg)](https://github.com/aikedejongste/island-info/actions/workflows/lint.yml)
 
 This repository contains a website with information for remote workers coming 
 to Koh Lanta in Thailand. It provides answers to most asked questions like how
