@@ -1,11 +1,15 @@
 ---
-title: "Health"
+title: "Health & Beauty"
 ---
 
 # Medical
 
-You can walk in to all clinics, Salarin is a good GP, if you want something a bit more advanced with some testing the best bet of the clinics is Dr. Pad in Saladan IMO. You can also walk to the TRPH clinic just down the road.
+You can walk in to all clinics. [Dr. Salarin](https://www.google.com/maps/search/?api=1&query=Dr+Salarin+Clinic+Phra+Ae+Koh+Lanta) is a good GP on Long Beach. For something more advanced with testing, [Dr. Pad in Saladan](https://www.google.com/maps/search/?api=1&query=Dr+Pad+Clinic+Saladan+Koh+Lanta) is a good option. [Thonburi Lanta](https://www.google.com/maps/search/?api=1&query=Thonburi+Lanta+Medical+Clinic+Koh+Lanta) offers 24-hour emergency care.
 
 ## Dentists
 
-- Lanta Dente
+- [Lanta Dente](https://www.google.com/maps/search/?api=1&query=Lanta+Dente+Koh+Lanta) - Only dentist on the island, on Khlong Dao road.
+
+## Nails
+
+[Cool Nail Studio](https://www.google.com/maps/search/?api=1&query=Cool+Nail+Studio+Koh+Lanta)
