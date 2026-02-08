@@ -18,4 +18,4 @@ title: "Food"
 
 ## Delivery
 
-<https://lanta365pwa.web.app/lang>
+<https://lanta365pwa.web.app/lang?ref=lantanomads.com>

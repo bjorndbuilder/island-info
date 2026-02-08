@@ -28,5 +28,5 @@ Flat tires: <https://maps.app.goo.gl/cSukRtbw65ANbrgo6>
 
 1. Bao Lanta Transfer: +66 80 224 7060
 2. Lanta living tour 42: +66 95 414 1888
-3. Mun Lanta: <https://munlanta.com/>
-4. Go2Lanta: <https://go2lanta.com/>
+3. Mun Lanta: <https://munlanta.com/?ref=lantanomads.com>
+4. Go2Lanta: <https://go2lanta.com/?ref=lantanomads.com>
