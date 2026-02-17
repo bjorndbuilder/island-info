@@ -6,40 +6,91 @@ icon: "🏠"
 group: "getting-started"
 ---
 
-## Options
+Most nomads stay around [Long Beach (Phra Ae)](https://www.google.com/maps/search/?api=1&query=Long+Beach+Phra+Ae+Koh+Lanta) since it's close to KoHub and has the best mix of restaurants, bars and places to stay. Prices vary a lot by season. High season (Dec-Feb) books up fast and costs roughly double what you'd pay in shoulder months (Nov, Mar-Apr). If you're coming in peak season, book ahead. Outside of that, you can often just show up and walk around.
 
-## 1. Kohub Bungalows
+For the best prices, check [Agoda](https://www.agoda.com) and [Booking.com](https://www.booking.com). Some places are cheaper when you message them directly on WhatsApp or Facebook. Monthly rates are almost always negotiable in person.
 
-Use the contact link on [KoHub.org](https://kohub.org/packages).
+## KoHub Bungalows
 
-## 2. Cheeky Monkey / Anna House
+The obvious pick if you want the full coliving/coworking setup. Private bungalows (28 sqm) right next to the KoHub coworking space, about a 5-minute walk from the beach. Each bungalow has AC, king bed, hot shower, fridge, desk, office chair and 1 Gbps WiFi with its own access point.
 
-Cheapest way to book is to message them on [WhatsApp](https://wa.me/660862757578?text=Hi,%20my%20name%20is%20..%20and%20I%20found%20you%20on%20LantaNomads.com.%20Do%20you%20have%20availability%20between%20..%20and%20..?)
+Packages are all-inclusive (room + coworking + two meals/day):
 
-## 3. Forest house
+- Low season (Nov, Apr): ~49,500 THB/month
+- High season (Dec-Mar): ~59,500 THB/month
+- Multi-month stays get a small discount
+- One bungalow has a private plunge pool (+10,000 THB/month)
 
-## 4. Phrae Ae appartments
+The community aspect is the main draw. Weekly events, communal lunches, island trips. It's not the cheapest option, but you're paying for convenience and not having to figure everything out yourself.
 
-## 5. Lanta Grand House
+Book through [KoHub.org](https://kohub.org/packages). Open November through April only.
 
-[Booking.com](https://www.booking.com/hotel/th/grand-house.html).
+## Lanta Buddy Resort
 
-## 6. Morakot Resort
+Hard to beat on reviews. Rated 9.8 on Booking.com, which is almost unheard of. On [Long Beach](https://www.google.com/maps/search/?api=1&query=Lanta+Buddy+Resort+Koh+Lanta) with rooms from around 900-1,200 THB/night. Rooms have a balcony, fridge, kettle and microwave, so you can do basic self-catering. Garden views, terrace, quiet setting.
 
-Surprisingly [Booking.com](https://www.booking.com/hotel/th/morrakot-lanta-resort.html) is much cheaper than what they quoted me on Whatsapp.
+[Booking.com](https://www.booking.com/hotel/th/lanta-buddy-bungalow.html)
 
-## 7. Baan Nok
+## Baan Nok
 
-## 8. The travelers friend bungalows
+Cozy bungalows with hammocks, about a 6-minute walk to Long Beach. Rated 9.0 on Booking.com and 4.5/5 on TripAdvisor. Rooms have AC, fridge, TV and a nice patio. The owner helps with motorbike rental, laundry and booking trips. Clean, cheap and quiet. Don't expect a resort - it's a small guesthouse, which is exactly what makes it good.
 
-## 9. Baan long haad
+From around 800-1,200 THB/night.
 
-## 10. Lanta Buddy Resort
+[Booking.com](https://www.booking.com/hotel/th/lanta-baan-nock-resort.html) | [Map](https://www.google.com/maps/search/?api=1&query=Lanta+Baan+Nok+Resort+Koh+Lanta)
 
-## 11. Maisuree Lanta Resort-Long Beach
+## Baan Long Haad
 
-<https://www.booking.com/hotel/th/living-garden-home.html>
+Tiny place with just four bungalows, one minute from Long Beach. Rated 9.2 on Booking.com. AC, TV, small terrace overlooking greenery. The owner is really welcoming. Very quiet since there are so few rooms. A few guests have noted the WiFi can be unreliable, so if you need rock-solid internet for calls, check with them first or plan to work from KoHub.
 
-## 12. Longhaad Lanta Garden resort
+[Booking.com](https://www.booking.com/hotel/th/baan-longhaad.html) | [Map](https://www.google.com/maps/search/?api=1&query=Baan+Longhaad+Koh+Lanta)
 
-<https://www.booking.com/hotel/th/lanta-kannika-longbeach-resort.html>
+## Morakot Resort
+
+Solid mid-range option with a pool. Rated 8.8 on Booking.com with especially high marks for value (9.0). Rooms from around 800-1,400 THB/night. Staff are friendly, rooms are clean, and they have daily housekeeping. Book on [Booking.com](https://www.booking.com/hotel/th/morrakot-lanta-resort.html) - it's cheaper than contacting them directly, which is unusual.
+
+[Map](https://www.google.com/maps/search/?api=1&query=Morakot+Lanta+Resort+Koh+Lanta)
+
+## Phra Ae Apartments
+
+Actual apartments (not hotel rooms), which is nice for longer stays. Rated 8.8 on Booking.com. About a 12-minute walk to Long Beach. Spacious rooms with AC, kitchen facilities, free WiFi and parking. Bike rental, laundry and local food all within walking distance.
+
+[Booking.com](https://www.booking.com/hotel/th/phra-ae-apartments.html) | [Map](https://www.google.com/maps/search/?api=1&query=Phra+Ae+Apartments+Koh+Lanta)
+
+## Lanta Grand House
+
+Budget pick with great staff. 14 rooms, all with AC. About a 5-10 minute walk from Long Beach. Has a small restaurant and cafe on-site. Rooms from around 400-900 THB/night. The owner goes out of his way to help with tours, transport and anything else you need. Good value if you don't need a pool or beachfront.
+
+[Booking.com](https://www.booking.com/hotel/th/grand-house.html) | [Map](https://www.google.com/maps/search/?api=1&query=Grand+House+Koh+Lanta)
+
+## Cheeky Monkey / Anna House
+
+Budget spot connected to the Cheeky Monkey bar (which has live music on Fridays). Cheapest way to book is to message them on [WhatsApp](https://wa.me/660862757578?text=Hi,%20my%20name%20is%20..%20and%20I%20found%20you%20on%20LantaNomads.com.%20Do%20you%20have%20availability%20between%20..%20and%20..?). Not much of an online presence, so you won't find many reviews. Ask in the nomad community for recent experiences.
+
+## Maisuree Lanta Resort
+
+Near Long Beach with mountain views, free bikes and a garden. Quiet spot.
+
+[Booking.com](https://www.booking.com/hotel/th/living-garden-home.html)
+
+## Longhaad Lanta Garden Resort
+
+A bit further south from the main Long Beach cluster. Restaurant on-site with local and international food.
+
+[Booking.com](https://www.booking.com/hotel/th/lanta-kannika-longbeach-resort.html)
+
+## Other places
+
+These are on the list from locals but don't have much of an online footprint. Worth checking out if you're walking around Long Beach and looking at places in person:
+
+- **Forest House** - ask around near Long Beach
+- **The Travellers Friend Bungalows** - small local guesthouse
+
+## Tips for booking
+
+- **High season (Dec-Feb):** Book at least a few weeks ahead for the popular spots. Prices are at their highest.
+- **Shoulder season (Nov, Mar-Apr):** Good availability, reasonable prices. You can book a few days before or just show up.
+- **Low season (May-Oct):** Many places close entirely. Those that stay open offer big discounts (50%+), but the island is very quiet and some restaurants shut down too.
+- **Monthly rates:** Most places will negotiate a monthly rate if you ask, especially for stays of 4+ weeks. This usually only works in person or via WhatsApp, not through booking platforms.
+- **Agoda vs Booking.com:** Compare both. Agoda tends to have better prices for Thai hotels. Some smaller places are only on one platform.
+- **Walk-in rates:** In shoulder and low season, walking in and asking can get you a better deal than online. In high season, this is risky since good places fill up.
