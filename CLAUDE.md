@@ -18,7 +18,7 @@ Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflow
 
 ## Architecture
 
-- **Content:** All site content lives in `content/` as Markdown files with YAML front matter (just `title`). Each `.md` file becomes a page. `_index.md` is the homepage content.
+- **Content:** All site content lives in `content/` as Markdown files with YAML front matter (`title` and `description`). Each `.md` file becomes a page. `_index.md` is the homepage content.
 - **Layouts:** Four Hugo templates in `layouts/`:
   - `_default/baseof.html` — base HTML shell (header, footer, CSS link)
   - `_default/single.html` — individual content page
@@ -26,6 +26,14 @@ Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflow
   - `index.html` — homepage, lists all `RegularPages`
 - **Styling:** Single CSS file at `static/css/styles.css`, plus inline styles in templates.
 - **Config:** `config.toml` — minimal Hugo config (baseURL, title, description).
+
+## Commits
+
+- Use the [Conventional Commits](https://www.conventionalcommits.org/) format (e.g., `feat:`, `fix:`, `docs:`, `chore:`).
+
+## Hugo Gotchas
+
+- Do not use `jsonify` to output values inside Hugo templates. It double-encodes strings (wraps in extra quotes and escapes inner quotes). Use direct interpolation instead (e.g., `"name": "{{ .Title }}"`).
 
 ## Content Conventions
 

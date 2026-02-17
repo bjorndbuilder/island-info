@@ -1,5 +1,6 @@
 ---
 title: "Sports"
+description: "Gyms, fitness classes and yoga on Koh Lanta. WM Fitness, Luke's Gym, Muay Thai, HIIT classes and more."
 ---
 
 # Sports

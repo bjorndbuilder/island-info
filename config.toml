@@ -1,6 +1,12 @@
 baseURL = "https://lantanomads.com/"
 languageCode = "en-us"
 title = "Lanta Nomads"
+enableGitInfo = true
+
+disableKinds = ["taxonomy"]
+
+[sitemap]
+  changefreq = "monthly"
 
 [params]
   description = "Information for remote workers coming to Koh Lanta, Thailand"

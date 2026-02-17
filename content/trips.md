@@ -1,5 +1,6 @@
 ---
 title: "Trips"
+description: "Day trips from Koh Lanta. Kayaking the mangroves and other excursions around the island."
 ---
 
 ## Mangroves

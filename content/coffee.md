@@ -1,5 +1,6 @@
 ---
 title: "Coffee"
+description: "Best coffee on Koh Lanta. Specialty cafes, where to buy beans, decaf options and brewing equipment."
 ---
 
 # Coffee

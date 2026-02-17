@@ -1,5 +1,6 @@
 ---
 title: "Transportation"
+description: "Getting around Koh Lanta. Scooter rentals, taxis, vans, ferries and airport transfers."
 ---
 
 # Transportation
