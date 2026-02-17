@@ -12,7 +12,7 @@ Some places are cheaper when you message them directly on WhatsApp or Facebook. 
 
 ## KoHub Bungalows
 
-The obvious pick if you want the full coliving/coworking setup. Private bungalows (28 sqm) right next to the KoHub coworking space, about a 5-minute walk from the beach. Each bungalow has AC, king bed, hot shower, mini-fridge, desk, office chair and 1 Gbps WiFi with its own access point.
+The obvious pick if you want the full coliving/coworking setup. Private bungalows (28 sqm) right next to the KoHub coworking space, about a 5-minute walk from the beach. Each bungalow has AC, king bed, hot shower, fridge, 2 desks, office chair and 1 Gbps WiFi with its own access point.
 
 Packages are all-inclusive (room + coworking + two meals/day):
 
@@ -49,7 +49,7 @@ Tiny place with just four bungalows, one minute from Long Beach. Rated 9.2 on Bo
 
 ## Morakot Resort
 
-Solid mid-range option with a pool. Rated 8.8 on Booking.com with especially high marks for value (9.0). Staff are friendly, rooms are clean, and they have daily housekeeping. Book on [Booking.com](https://www.booking.com/hotel/th/morrakot-lanta-resort.html) - it's cheaper than contacting them directly.
+Solid mid-range option with a pool. Rated 8.3 on Booking.com with especially high marks for value (9.0). Staff are friendly, rooms are clean, and they have daily housekeeping. Book on [Booking.com](https://www.booking.com/hotel/th/morrakot-lanta-resort.html) - it's cheaper than contacting them directly.
 
 [Map](https://www.google.com/maps/search/?api=1&query=Morakot+Lanta+Resort+Koh+Lanta)
 
