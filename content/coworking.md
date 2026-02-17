@@ -1,6 +1,9 @@
 ---
 title: "Coworking"
 description: "Coworking spaces and work-friendly cafes on Koh Lanta. Kohub, Fika, Coworx and cafes with good WiFi."
+weight: 1
+icon: "💻"
+group: "work"
 ---
 
 There are 3 coworking spaces in the area and lot's of cafes you can work from.

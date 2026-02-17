@@ -45,7 +45,6 @@ body {
 main {
   background: white;
   border-radius: 12px;
-  padding: 2.5rem;
   margin: 2rem auto;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
 }
@@ -119,6 +118,34 @@ a:hover {
   color: #0891b2;
 }
 
+.topic-icon {
+  font-size: 1.5rem;
+  display: block;
+  margin-bottom: 0.3rem;
+}
+
+.topic-desc {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 400;
+  color: #64748b;
+  margin-top: 0.3rem;
+  line-height: 1.4;
+}
+
+/* Topic Groups */
+.topic-group {
+  margin-top: 2.5rem;
+}
+
+.group-heading {
+  font-size: 1.3rem;
+  color: #0e7490;
+  border-bottom: 2px solid #e2e8f0;
+  padding-bottom: 0.4rem;
+  margin-bottom: 0;
+}
+
 /* Content Sections */
 section {
   margin-bottom: 2rem;
@@ -137,15 +164,71 @@ section {
 /* Responsive Design */
 @media (max-width: 768px) {
   main {
-    padding: 1.5rem;
-    margin: 1rem auto;
-  }
-
-  .topics {
-    grid-template-columns: 1fr;
+    border-radius: 0;
+    margin: 0 auto;
+    box-shadow: none;
   }
 
   .wrap {
     padding: 1rem;
+  }
+
+  .site-title {
+    font-size: 1.5rem;
+  }
+
+  .homepage-hero h1 {
+    font-size: 1.75rem;
+  }
+
+  .post header h1 {
+    font-size: 1.75rem;
+  }
+
+  .topics {
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+
+  .topics a {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    padding: 1rem;
+  }
+
+  .topic-icon {
+    font-size: 1.3rem;
+    display: inline;
+    margin-bottom: 0;
+    flex-shrink: 0;
+    line-height: 1.5;
+  }
+
+  .topic-text {
+    min-width: 0;
+  }
+
+  .topic-desc {
+    font-size: 0.8rem;
+    margin-top: 0.15rem;
+  }
+
+  .group-heading {
+    font-size: 1.1rem;
+  }
+
+  .topic-group {
+    margin-top: 1.5rem;
+  }
+
+  .back-link {
+    display: block;
+    text-align: center;
+  }
+
+  .site-footer {
+    margin-top: 2rem;
+    padding: 1.5rem 0;
   }
 }

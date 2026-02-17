@@ -58,9 +58,11 @@
         <p style="margin: 0.5rem 0 0 0; opacity: 0.9; font-size: 0.9rem;">© {{ now.Format "2006" }} All rights reserved</p>
       </div>
     </footer>
+    {{- if hugo.IsProduction }}
     <script async
         src="https://betterlytics.io/analytics.js"
         data-site-id="lantanomads-mlq9v4m7">
     </script>
+    {{- end }}
   </body>
 </html>

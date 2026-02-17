@@ -1,6 +1,9 @@
 ---
 title: "Trips"
 description: "Day trips from Koh Lanta. Kayaking the mangroves and other excursions around the island."
+weight: 4
+icon: "🗺️"
+group: "explore"
 ---
 
 ## Mangroves

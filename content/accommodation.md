@@ -1,6 +1,9 @@
 ---
 title: "Accommodation"
 description: "Where to stay on Koh Lanta as a remote worker. Bungalows, resorts and apartments near coworking spaces on Long Beach and beyond."
+weight: 2
+icon: "🏠"
+group: "getting-started"
 ---
 
 ## Options
