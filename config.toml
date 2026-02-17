@@ -8,5 +8,10 @@ disableKinds = ["taxonomy"]
 [sitemap]
   changefreq = "monthly"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "Information for remote workers coming to Koh Lanta, Thailand"
