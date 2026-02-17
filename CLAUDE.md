@@ -39,3 +39,7 @@ Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflow
 
 - Content files use Google Maps search links for locations: `https://www.google.com/maps/search/?api=1&query=Place+Name+Koh+Lanta`
 - Markdownlint config (`.markdownlint.json`) disables: line length (MD013), multiple top-level headings (MD025), trailing punctuation in headings (MD026), ordered list numbering (MD029), and link/image reference definitions (MD060).
+
+## Fact-Checking
+
+When adding or editing content that includes factual claims (prices, travel times, distances, regulations, phone numbers, business names, etc.), always verify the information by searching the web before committing. This site is a practical guide — inaccurate information can cost people time and money.
