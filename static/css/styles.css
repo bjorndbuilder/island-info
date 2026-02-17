@@ -192,16 +192,6 @@ a:hover {
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
-/* Photo Credit */
-.content em:only-child {
-  display: block;
-  text-align: center;
-  font-size: 0.8rem;
-  color: #94a3b8;
-  margin-top: -1rem;
-  margin-bottom: 1.5rem;
-}
-
 /* Contact Cards */
 .contact-grid {
   display: grid;
