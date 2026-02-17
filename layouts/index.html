@@ -1,16 +1,35 @@
 {{ define "main" }}
-  <section style="text-align: center; padding: 2rem 0; border-bottom: 3px solid #e2e8f0;">
+  <section class="homepage-hero" style="text-align: center; padding: 2rem 0; border-bottom: 3px solid #e2e8f0;">
     <h1 style="font-size: 2.5rem; color: #0891b2; margin-bottom: 1rem;">Welcome to Koh Lanta 🏝️</h1>
     {{ .Content }}
   </section>
-  <section style="margin-top: 2.5rem;">
-    <h2 style="text-align: center; font-size: 2rem; margin-bottom: 2rem;">📚 Browse Topics</h2>
-    <ul class="topics">
-      {{ range .Site.RegularPages }}
-        {{ if ne .File.Path "content/_index.md" }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+  {{ $groups := slice
+    (dict "key" "getting-started" "title" "Getting Started" "icon" "🛬")
+    (dict "key" "work" "title" "Work & Productivity" "icon" "💼")
+    (dict "key" "food-and-going-out" "title" "Food & Going Out" "icon" "🍽️")
+    (dict "key" "explore" "title" "Explore the Island" "icon" "🌊")
+    (dict "key" "practical" "title" "Practical Info" "icon" "🔑")
+  }}
+  {{ range $groups }}
+    {{ $groupKey := .key }}
+    {{ $pages := where $.Site.RegularPages.ByWeight ".Params.group" $groupKey }}
+    {{ if $pages }}
+    <section class="topic-group">
+      <h2 class="group-heading">{{ .icon }} {{ .title }}</h2>
+      <ul class="topics">
+        {{ range $pages }}
+          <li>
+            <a href="{{ .RelPermalink }}">
+              <span class="topic-icon">{{ .Params.icon }}</span>
+              <span class="topic-text">
+                <span class="topic-title">{{ .Title }}</span>
+                {{ with .Params.description }}<span class="topic-desc">{{ . }}</span>{{ end }}
+              </span>
+            </a>
+          </li>
         {{ end }}
-      {{ end }}
-    </ul>
-  </section>
+      </ul>
+    </section>
+    {{ end }}
+  {{ end }}
 {{ end }}
