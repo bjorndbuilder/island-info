@@ -51,7 +51,7 @@ The old trick of using AEON ATMs for a lower 150 THB fee no longer works. AEON s
 
 ## Cards for travel
 
-If you're staying for a while, a **Wise card** is worth getting before your trip. It converts at the mid-market exchange rate with a small fee (around 0.4-0.6%) and has no foreign transaction fee on card payments. For ATM withdrawals, you get 2 free pulls per month (up to 200 EUR for EEA-issued cards, or 100 USD for US-issued cards), then a small percentage fee after that. The Thai ATM surcharge still applies on top.
+If you're staying for a while, a [Wise card](https://wise.com/invite/ath/jacobusd57) is worth getting before your trip. It converts at the mid-market exchange rate with a small fee (around 0.4-0.6%) and has no foreign transaction fee on card payments. For ATM withdrawals, you get 2 free pulls per month (up to 200 EUR for EEA-issued cards, or 100 USD for US-issued cards), then a small percentage fee after that. The Thai ATM surcharge still applies on top.
 
 Your home bank debit or credit card will also work at ATMs and larger shops, but check what foreign transaction fees they charge. Many banks add 1-3% on top of the exchange rate, which adds up over a month.
 
@@ -69,7 +69,7 @@ There are exchange booths around Saladan and in tourist areas along the beaches.
 
 If you're flying through Bangkok, exchanging some cash at a SuperRich counter at Suvarnabhumi Airport will get you a better rate than anything on the island. There is no SuperRich in Krabi or on Koh Lanta.
 
-For the best overall rate, use a Wise card for purchases and withdraw cash from Krungsri ATMs when you need it.
+For the best overall rate, use a [Wise card](https://wise.com/invite/ath/jacobusd57) for purchases and withdraw cash from Krungsri ATMs when you need it.
 
 ## Tipping
 
@@ -80,6 +80,7 @@ Tipping is not required in Thailand, but it's appreciated in tourist areas. Some
 - **Taxis:** Not expected. Rounding up the fare by 10-20 THB is enough.
 - **Hotel staff:** 20-50 THB for porters or housekeeping if you feel like it.
 
+<!--
 ## Opening a Thai bank account
 
 This is only relevant if you're on a long-term visa (work permit, retirement, or education visa). Tourist visa holders, visa-exempt visitors, and DTV holders can no longer open accounts at major banks - despite the DTV being a long-stay visa, banks classify it as a tourist category.
@@ -87,3 +88,4 @@ This is only relevant if you're on a long-term visa (work permit, retirement, or
 If you qualify, **Bangkok Bank** is generally the most foreigner-friendly. You'll need your passport, proof of a Thai address (a Certificate of Residence from immigration works best), and a Thai phone number. The minimum opening deposit is 500 THB.
 
 Having a Thai account gives you access to PromptPay, mobile banking, and much cheaper transfers.
+-->
