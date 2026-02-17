@@ -14,7 +14,7 @@ There's no public transport on Koh Lanta. Most people rent a scooter and that's 
 
 ## Getting to the island
 
-Most people fly into [Krabi Airport](https://www.google.com/maps/search/?api=1&query=Krabi+Airport) and then take a transfer to Koh Lanta. The drive takes about 2 to 2.5 hours depending on traffic and ferry wait times. You'll cross two bridges to reach the island (no ferry needed for road transfers anymore, unless the bridge is under maintenance).
+Most people fly into <a href="https://www.google.com/maps/search/?api=1&query=Krabi+Airport" target="_blank" rel="noopener">Krabi Airport</a> and then take a transfer to Koh Lanta. The drive takes about 2 to 2.5 hours depending on traffic and ferry wait times.
 
 A few options for the airport transfer:
 
@@ -26,26 +26,30 @@ A few options for the airport transfer:
 
 <div class="contact-grid">
   <div class="contact-card">
+    <strong>Andaman Thai Travel</strong>
+    <a href="https://www.andamanthaitravel.com/en/index?ref=lantanomads.com" target="_blank" rel="noopener">andamanthaitravel.com</a>
+  </div>
+  <div class="contact-card">
     <strong>Mun Lanta</strong>
-    <a href="https://munlanta.com/?ref=lantanomads.com">munlanta.com</a>
+    <a href="https://munlanta.com/?ref=lantanomads.com" target="_blank" rel="noopener">munlanta.com</a>
   </div>
   <div class="contact-card">
     <strong>Go2Lanta</strong>
-    <a href="https://go2lanta.com/?ref=lantanomads.com">go2lanta.com</a>
+    <a href="https://go2lanta.com/?ref=lantanomads.com" target="_blank" rel="noopener">go2lanta.com</a>
   </div>
   <div class="contact-card">
     <strong>Bao Lanta Transfer</strong>
-    <a href="tel:+66802247060">+66 80 224 7060</a>
+    <a href="https://wa.me/66802247060" target="_blank" rel="noopener">+66 80 224 7060</a>
   </div>
   <div class="contact-card">
     <strong>Lanta Living Tour</strong>
-    <a href="tel:+66954141888">+66 95 414 1888</a>
+    <a href="https://wa.me/66954141888" target="_blank" rel="noopener">+66 95 414 1888</a>
   </div>
 </div>
 
 ## Scooter rental
 
-This is how most people get around. You'll see rental shops all over the island, especially along the main road in [Saladan](https://www.google.com/maps/search/?api=1&query=Saladan+Koh+Lanta) and near the popular beaches.
+This is how most people get around. You'll see rental shops all over the island, especially along the main road in <a href="https://www.google.com/maps/search/?api=1&query=Saladan+Koh+Lanta" target="_blank" rel="noopener">Saladan</a> and near the popular beaches.
 
 <ul class="price-list">
   <li><span class="price-label">Daily</span> <span class="price-value">250-300 THB</span></li>
@@ -55,7 +59,7 @@ This is how most people get around. You'll see rental shops all over the island,
 
 The price depends on the season, the bike's condition, and how long you're renting. Always check the brakes, tires, and lights before you ride off. Take photos of any existing scratches so you don't get blamed for them later.
 
-[Nare Scooter Rental Shop](https://maps.app.goo.gl/HbMNqjybkxesGZ9t6) has nicer, newer bikes than most places on the island. Worth paying a bit extra for a well-maintained scooter.
+<a href="https://maps.app.goo.gl/HbMNqjybkxesGZ9t6" target="_blank" rel="noopener">Nare Scooter Rental Shop</a> has nicer, newer bikes than most places on the island. Worth paying a bit extra for a well-maintained scooter.
 
 ### Driving tips
 
@@ -72,11 +76,11 @@ The price depends on the season, the bike's condition, and how long you're renti
 
 ### Don't want to drive?
 
-If you don't have a license or you're not comfortable on a scooter, [Koh Lanta Bike Rentals](https://maps.app.goo.gl/uipWxpP8qxHMzeKG8) rents e-bikes. Good for shorter trips around your area.
+If you don't have a license or you're not comfortable on a scooter, <a href="https://maps.app.goo.gl/uipWxpP8qxHMzeKG8" target="_blank" rel="noopener">Koh Lanta Bike Rentals</a> rents e-bikes. Good for shorter trips around your area.
 
 ### Flat tires
 
-When you inevitably get a flat, head to this [tire repair shop](https://maps.app.goo.gl/cSukRtbw65ANbrgo6). Fixes are quick and cheap (around 50-100 THB).
+When you inevitably get a flat, head to this <a href="https://maps.app.goo.gl/cSukRtbw65ANbrgo6" target="_blank" rel="noopener">tire repair shop</a>. Fixes are quick and cheap (around 50-100 THB).
 
 ## Taxis on the island
 
@@ -87,12 +91,12 @@ Expect to pay 200-500 THB depending on distance. Agree on the price before you g
 <div class="contact-grid">
   <div class="contact-card">
     <strong>Mr. Jook</strong>
-    <a href="https://wa.me/66869432382">+66 86 943 2382</a>
+    <a href="https://wa.me/66869432382" target="_blank" rel="noopener">+66 86 943 2382</a>
     <span class="contact-note">WhatsApp</span>
   </div>
   <div class="contact-card">
     <strong>Taxi Nana Lanta</strong>
-    <a href="https://wa.me/66973528409">+66 97 352 8409</a>
+    <a href="https://wa.me/66973528409" target="_blank" rel="noopener">+66 97 352 8409</a>
     <span class="contact-note">WhatsApp</span>
   </div>
 </div>
@@ -103,7 +107,7 @@ Tuk-tuks and songthaew (shared pickup trucks) are sometimes available near Salad
 
 ![Boats docked at a Thai pier](/images/thailand-pier-boats.jpg)
 
-During high season (November to April), ferries run daily from [Saladan Pier](https://www.google.com/maps/search/?api=1&query=Saladan+Pier+Koh+Lanta) to nearby islands. In low season, most routes shut down.
+During high season (November to April), ferries run daily from <a href="https://www.google.com/maps/search/?api=1&query=Saladan+Pier+Koh+Lanta" target="_blank" rel="noopener">Saladan Pier</a> to nearby islands. In low season, most routes shut down.
 
 <div class="table-wrap">
 
@@ -118,7 +122,7 @@ During high season (November to April), ferries run daily from [Saladan Pier](ht
 
 </div>
 
-Ferry operators include Chaokoh Ferry, Bundhaya Speed Boat, Tiger Line Ferry, and Andaman Wave Master. You can book tickets at travel agencies in Saladan or online through [Ferryhopper](https://www.ferryhopper.com/en/ferries/thailand/koh-lanta) or 12Go Asia.
+Ferry operators include Chaokoh Ferry, Bundhaya Speed Boat, Tiger Line Ferry, and Andaman Wave Master. You can book tickets at travel agencies in Saladan or online through <a href="https://www.ferryhopper.com/en/ferries/thailand/koh-lanta" target="_blank" rel="noopener">Ferryhopper</a> or 12Go Asia.
 
 Book a few days ahead during peak season (December/January), as popular routes sell out.
 
