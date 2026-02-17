@@ -1,6 +1,6 @@
 ---
 title: "Transportation"
-description: "Getting around Koh Lanta. Scooter rentals, taxis, vans, ferries and airport transfers."
+description: "Getting around Koh Lanta. Scooter rentals, taxis, ferries, airport transfers and driving tips."
 weight: 3
 icon: "🛵"
 group: "getting-started"
@@ -8,35 +8,122 @@ group: "getting-started"
 
 # Transportation
 
+There's no public transport on Koh Lanta. Most people rent a scooter and that's pretty much all you need. The island is about 30km from north to south, so even the longest trip only takes around 40 minutes.
+
+![Scooter on a tropical road lined with palm trees](/images/scooter-tropical-road.jpg)
+
+## Getting to the island
+
+Most people fly into [Krabi Airport](https://www.google.com/maps/search/?api=1&query=Krabi+Airport) and then take a transfer to Koh Lanta. The drive takes about 2 to 2.5 hours depending on traffic and ferry wait times. You'll cross two bridges to reach the island (no ferry needed for road transfers anymore, unless the bridge is under maintenance).
+
+A few options for the airport transfer:
+
+- **Shared minivan** - Cheapest option at around 400-500 THB per person. They wait until the van is full before leaving, so timing is unpredictable. Can be cramped.
+- **Private minivan** - Around 2,500-3,000 THB for the whole vehicle. Worth it if you're traveling with others or have a lot of luggage. Book in advance.
+- **Taxi** - Similar price to a private minivan. Available at the airport but better to arrange ahead of time.
+
+### Transfer services
+
+<div class="contact-grid">
+  <div class="contact-card">
+    <strong>Mun Lanta</strong>
+    <a href="https://munlanta.com/?ref=lantanomads.com">munlanta.com</a>
+  </div>
+  <div class="contact-card">
+    <strong>Go2Lanta</strong>
+    <a href="https://go2lanta.com/?ref=lantanomads.com">go2lanta.com</a>
+  </div>
+  <div class="contact-card">
+    <strong>Bao Lanta Transfer</strong>
+    <a href="tel:+66802247060">+66 80 224 7060</a>
+  </div>
+  <div class="contact-card">
+    <strong>Lanta Living Tour</strong>
+    <a href="tel:+66954141888">+66 95 414 1888</a>
+  </div>
+</div>
+
 ## Scooter rental
 
-You can rent scooters almost everywhere on the island. The price is around 250-300 THB per day, depending on the season and the condition of the scooter. If you rent longer than a week you'll get a better price. For example 5000 THB per month.
+This is how most people get around. You'll see rental shops all over the island, especially along the main road in [Saladan](https://www.google.com/maps/search/?api=1&query=Saladan+Koh+Lanta) and near the popular beaches.
 
-[Nare Scooter Rental Shop](https://maps.app.goo.gl/HbMNqjybkxesGZ9t6) has nicer, newer and better scooters than most.
+<ul class="price-list">
+  <li><span class="price-label">Daily</span> <span class="price-value">250-300 THB</span></li>
+  <li><span class="price-label">Weekly</span> <span class="price-value">Ask the shop</span></li>
+  <li><span class="price-label">Monthly</span> <span class="price-value">3,000-5,000 THB</span></li>
+</ul>
 
-If you don't have a driver's license or you don't feel comfortable driving a scooter, you can rent an e-bike from [Koh Lanta Bike Rentals](https://maps.app.goo.gl/uipWxpP8qxHMzeKG8) instead.
+The price depends on the season, the bike's condition, and how long you're renting. Always check the brakes, tires, and lights before you ride off. Take photos of any existing scratches so you don't get blamed for them later.
 
-Flat tires: <https://maps.app.goo.gl/cSukRtbw65ANbrgo6>
+[Nare Scooter Rental Shop](https://maps.app.goo.gl/HbMNqjybkxesGZ9t6) has nicer, newer bikes than most places on the island. Worth paying a bit extra for a well-maintained scooter.
 
-## Taxi on the island
+### Driving tips
 
-Useful if you have a lot of luggage and you want to move to another accommodation.
+<div class="tip-box">
+<p>Good to know before you ride</p>
+<ul>
+<li>An international driving permit (IDP) is technically required. Police do occasional checkpoints and the fine is 500 THB without one.</li>
+<li>Wear a helmet. It's the law, and the roads get steep and winding in the southern part of the island.</li>
+<li>Fill up at a proper gas station rather than the roadside bottle sellers - the fuel quality is better and the price is fair.</li>
+<li>Roads are mostly in good shape, but watch out for sand, gravel, and dogs.</li>
+<li>Drive on the left side of the road.</li>
+</ul>
+</div>
 
-Mr. Jook: [+66869432382](whatsapp://+66869432382)
+### Don't want to drive?
 
-Taxi Nana Lanta [+66973528409](whatsapp://+66973528409)
+If you don't have a license or you're not comfortable on a scooter, [Koh Lanta Bike Rentals](https://maps.app.goo.gl/uipWxpP8qxHMzeKG8) rents e-bikes. Good for shorter trips around your area.
 
-## Vans
+### Flat tires
 
-- lanta living tour (aka phra ae apartments)
+When you inevitably get a flat, head to this [tire repair shop](https://maps.app.goo.gl/cSukRtbw65ANbrgo6). Fixes are quick and cheap (around 50-100 THB).
+
+## Taxis on the island
+
+There's no Grab or ride-hailing apps on Koh Lanta. Taxis are old-school: you call or message someone directly. They're useful when you have a lot of luggage or need to get somewhere late at night.
+
+Expect to pay 200-500 THB depending on distance. Agree on the price before you get in.
+
+<div class="contact-grid">
+  <div class="contact-card">
+    <strong>Mr. Jook</strong>
+    <a href="https://wa.me/66869432382">+66 86 943 2382</a>
+    <span class="contact-note">WhatsApp</span>
+  </div>
+  <div class="contact-card">
+    <strong>Taxi Nana Lanta</strong>
+    <a href="https://wa.me/66973528409">+66 97 352 8409</a>
+    <span class="contact-note">WhatsApp</span>
+  </div>
+</div>
+
+Tuk-tuks and songthaew (shared pickup trucks) are sometimes available near Saladan and the main beaches, but they're not something you can count on. Prices tend to be inflated compared to a direct taxi.
 
 ## Ferries
 
-- lanta living tour (aka phra ae apartments)
+![Boats docked at a Thai pier](/images/thailand-pier-boats.jpg)
 
-## Transfers:
+During high season (November to April), ferries run daily from [Saladan Pier](https://www.google.com/maps/search/?api=1&query=Saladan+Pier+Koh+Lanta) to nearby islands. In low season, most routes shut down.
 
-1. Bao Lanta Transfer: +66 80 224 7060
-2. Lanta living tour 42: +66 95 414 1888
-3. Mun Lanta: <https://munlanta.com/?ref=lantanomads.com>
-4. Go2Lanta: <https://go2lanta.com/?ref=lantanomads.com>
+<div class="table-wrap">
+
+| Destination | Travel time | Approx. price |
+|---|---|---|
+| Koh Phi Phi | 30 min - 1 hr | 400-500 THB |
+| Phuket | 1.5 - 2 hrs | 600-1,200 THB |
+| Krabi (Klong Jilad Pier) | 1 hr | 400-500 THB |
+| Ao Nang / Railay | 1 - 1.5 hrs | 400-600 THB |
+| Koh Ngai | 30 min | 400 THB |
+| Koh Lipe | 3 hrs | 1,200-1,700 THB |
+
+</div>
+
+Ferry operators include Chaokoh Ferry, Bundhaya Speed Boat, Tiger Line Ferry, and Andaman Wave Master. You can book tickets at travel agencies in Saladan or online through [Ferryhopper](https://www.ferryhopper.com/en/ferries/thailand/koh-lanta) or 12Go Asia.
+
+Book a few days ahead during peak season (December/January), as popular routes sell out.
+
+![Longtail boat on a Thai beach](/images/longtail-boat-beach.jpg)
+
+## Day trips by boat
+
+Longtail boats can be hired for day trips to the nearby islands (Koh Rok, four islands tour, etc.). You'll find tour operators all over Saladan and along Long Beach. See the [trips page](/trips/) for more details.
