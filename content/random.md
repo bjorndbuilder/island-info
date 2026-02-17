@@ -1,5 +1,6 @@
 ---
 title: "Random"
+description: "Miscellaneous tips for Koh Lanta. Seasonal storage, printing services and other useful information."
 ---
 
 ## 11-7 Sound

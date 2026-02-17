@@ -1,5 +1,6 @@
 ---
 title: "Drinks"
+description: "Best bars and drinks on Koh Lanta. Craft beer, cocktails, wine and sunset bars on the island."
 ---
 
 # Drinks

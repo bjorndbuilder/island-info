@@ -1,5 +1,6 @@
 ---
 title: "Visa"
+description: "Visa information for Koh Lanta. How to extend your visa and visa agent contacts on the island."
 ---
 
 # Visa

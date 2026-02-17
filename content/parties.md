@@ -1,5 +1,6 @@
 ---
 title: "Parties"
+description: "Koh Lanta nightlife guide. Weekly party schedule, pub quizzes, live music, fire shows and the best bars by day of the week."
 ---
 
 There is a more or less fixed schedule for the parties on the island. The big ones have a fixed day of the week. Some bars are a bit hidden but when they are the main party that night there will be torches outside on the main road to guide you there.

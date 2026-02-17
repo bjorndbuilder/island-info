@@ -1,5 +1,6 @@
 ---
 title: "Where to buy"
+description: "Where to buy things on Koh Lanta. Pillows, art supplies, helmets, photos and more for daily life on the island."
 ---
 
 ## Pillows

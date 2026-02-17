@@ -1,5 +1,6 @@
 ---
 title: "Food"
+description: "Where to eat on Koh Lanta. Breakfast spots, seafood restaurants, birthday cakes, food delivery and grocery shopping."
 ---
 
 # Food

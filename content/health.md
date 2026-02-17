@@ -1,5 +1,6 @@
 ---
 title: "Health & Beauty"
+description: "Healthcare and beauty on Koh Lanta. Doctors, clinics, dentists, nail studios and barbers on the island."
 ---
 
 # Medical

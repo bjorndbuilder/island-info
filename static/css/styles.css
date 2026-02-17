@@ -24,7 +24,7 @@ body {
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-.site-header h1 {
+.site-title {
   margin: 0;
   font-size: 2rem;
   font-weight: 700;
@@ -136,10 +136,6 @@ section {
 
 /* Responsive Design */
 @media (max-width: 768px) {
-  .site-header h1 {
-    font-size: 2rem;
-  }
-
   main {
     padding: 1.5rem;
     margin: 1rem auto;
