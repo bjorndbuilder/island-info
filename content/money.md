@@ -36,7 +36,7 @@ Not all ATMs are equal. Krungsri (yellow) ATMs let you pull 30,000 THB per trans
 
 **Look for the yellow Krungsri ATMs.** At 30,000 THB with a 250 THB fee, you're paying about 0.8%. At an SCB machine doing 20,000 THB, that same fee costs you 1.25%.
 
-The old trick of using AEON ATMs for a lower 150 THB fee no longer works. AEON shut down their ATM network in early 2024.
+The chance of an ATM on Koh Lanta skimming your card is very, very low, but not zero. So try to use the same ATM every time you need money.
 
 ### Decline the currency conversion
 
