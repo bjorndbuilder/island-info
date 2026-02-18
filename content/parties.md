@@ -37,3 +37,7 @@ First karaoke at [Free Descent](https://www.google.com/maps/search/?api=1&query=
 [Horizon Bar](https://www.google.com/maps/search/?api=1&query=Horizon+Bungalow+Beach+Bar+Klong+Nin+Koh+Lanta)
 
 [Pangea](https://www.google.com/maps/search/?api=1&query=Pangea+Beach+Bar+Koh+Lanta)
+
+## Other parties
+
+[New Moon Parties](https://newmoonkohlanta.com/) - very cool on party on top of [Naklang Hill](https://www.google.com/maps/place/DREAMFARER/@7.5646036,99.0599649,980m/data=!3m2!1e3!4b1!4m6!3m5!1s0x304e050fde9686d7:0x1acc5b65ed8112cb!8m2!3d7.5645983!4d99.0625452!16s%2Fg%2F11mrzyw0g0?coh=277533&entry=tts&g_ep=EgoyMDI1MTIwOS4wIPu8ASoKLDEwMDc5MjA2N0gBUAM%3D&skid=8cf1defb-fbcc-4f5b-b954-1cf773bce134)
