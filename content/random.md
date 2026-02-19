@@ -1,6 +1,6 @@
 ---
 title: "Random"
-description: "Miscellaneous tips for Koh Lanta. Seasonal storage, printing services and other useful information."
+description: "Miscellaneous tips for Koh Lanta. Seasonal storage with Lanta Box, printing and scanning services at Kohub, and other useful daily life information."
 weight: 4
 icon: "🎲"
 group: "practical"

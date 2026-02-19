@@ -1,6 +1,6 @@
 ---
 title: "Coffee"
-description: "Best coffee on Koh Lanta. Specialty cafes, where to buy beans, decaf options and brewing equipment."
+description: "Best coffee on Koh Lanta. Specialty cafes like Slow Bar, where to buy beans and ground coffee, decaf options and brewing equipment."
 weight: 2
 icon: "☕"
 group: "work"

@@ -1,6 +1,6 @@
 ---
 title: "Transportation"
-description: "Getting around Koh Lanta. Scooter rentals, taxis, ferries, airport transfers and driving tips."
+description: "Getting around Koh Lanta. Scooter rentals, airport transfers from Krabi, taxis, ferry routes to nearby islands and essential driving tips."
 weight: 3
 icon: "🛵"
 group: "getting-started"

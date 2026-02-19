@@ -1,6 +1,6 @@
 ---
 title: "Beaches"
-description: "The best beaches on Koh Lanta, Thailand. From Long Beach to Kantiang Bay and beyond."
+description: "The best beaches on Koh Lanta, Thailand. A guide to Long Beach, Kantiang Bay and other stunning stretches of sand on the island."
 weight: 1
 icon: "🏖️"
 group: "explore"

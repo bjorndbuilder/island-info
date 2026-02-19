@@ -1,6 +1,6 @@
 ---
 title: "Fixing things"
-description: "Where to get things repaired on Koh Lanta. Laptop repair, phone repair and scooter flat tires."
+description: "Where to get things repaired on Koh Lanta. Laptop repair, phone screen fixes, scooter flat tires and other practical repair services on the island."
 weight: 3
 icon: "🔧"
 group: "practical"
