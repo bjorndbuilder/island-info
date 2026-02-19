@@ -27,6 +27,10 @@ Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflow
 - **Styling:** Single CSS file at `static/css/styles.css`, plus inline styles in templates.
 - **Config:** `config.toml` — minimal Hugo config (baseURL, title, description).
 
+## Branching
+
+- Feature changes and bugfixes should always be applied in a separate branch, not directly on `main`.
+
 ## Commits
 
 - Use the [Conventional Commits](https://www.conventionalcommits.org/) format (e.g., `feat:`, `fix:`, `docs:`, `chore:`).
