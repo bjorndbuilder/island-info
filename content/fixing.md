@@ -6,8 +6,6 @@ icon: "🔧"
 group: "practical"
 ---
 
-# Fixing things
-
 ## Laptops
 
 - Ek (see sign in Kohub entrance)

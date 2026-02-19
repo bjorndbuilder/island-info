@@ -6,8 +6,6 @@ icon: "🎯"
 group: "explore"
 ---
 
-# Activities
-
 ## Cooking Classes
 
 ### [Time for Lime](https://www.google.com/maps/search/?api=1&query=Time+For+Lime+Koh+Lanta)

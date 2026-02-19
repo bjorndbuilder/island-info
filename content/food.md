@@ -6,8 +6,6 @@ icon: "🍜"
 group: "food-and-going-out"
 ---
 
-# Food
-
 ## Breakfast places
 
 ## Restaurants with good fish
