@@ -1,6 +1,6 @@
 ---
 title: "Drinks"
-description: "Best bars and drinks on Koh Lanta. Craft beer, cocktails, wine and sunset bars on the island."
+description: "Best bars and drinks on Koh Lanta. Craft beer at Devy Ale Cafe, cocktails, wine, sunset beach bars and happy hour spots across the island."
 weight: 2
 icon: "🍹"
 group: "food-and-going-out"
