@@ -40,3 +40,18 @@ jobs:
         with:
           publish_dir: ./public
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Submit URLs to IndexNow
+        continue-on-error: true
+        run: |
+          KEY="0c1a7c49-0fbc-4c85-b701-e5486cee4822"
+          URL_LIST=$(grep -o '<loc>[^<]*</loc>' ./public/sitemap.xml | sed 's/<[^>]*>//g' | jq -R -s 'split("\n") | map(select(length > 0))')
+          PAYLOAD=$(jq -n \
+            --arg host "lantanomads.com" \
+            --arg key "$KEY" \
+            --arg keyLocation "https://lantanomads.com/${KEY}.txt" \
+            --argjson urlList "$URL_LIST" \
+            '{host: $host, key: $key, keyLocation: $keyLocation, urlList: $urlList}')
+          curl -s -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD"
