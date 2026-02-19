@@ -6,8 +6,6 @@ icon: "🍹"
 group: "food-and-going-out"
 ---
 
-# Drinks
-
 ## Craft Beer
 
 [Devy Ale Cafe](https://www.google.com/maps/search/?api=1&query=Devy+Ale+Cafe+Koh+Lanta) - Best craft beer selection on the island. Located at the end of Saladan road. Great selection of Thai craft beers (brewed in Cambodia/Laos due to Thai laws). Expect 230-240 baht per beer.

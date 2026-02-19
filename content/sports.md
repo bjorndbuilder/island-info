@@ -6,8 +6,6 @@ icon: "💪"
 group: "explore"
 ---
 
-# Sports
-
 ## Gyms
 
 [WM Fitness](https://www.google.com/maps/search/?api=1&query=WM+Fitness+Koh+Lanta) - Long Beach area. Modern gym with good selection of cardio equipment, resistance machines, and free weights. Also has a rig area with battle ropes, sandbags, kettlebells. Connected to William Muay Thai Stadium. Air conditioned. Day pass 200 THB. See [Facebook](https://www.facebook.com/WMfitnessLanta) for full pricing information.
