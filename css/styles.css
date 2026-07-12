@@ -146,6 +146,27 @@ a:hover {
   margin-bottom: 0;
 }
 
+/* Heading Anchors */
+.heading-anchor {
+  margin-left: 0.4em;
+  color: #cbd5e0;
+  font-weight: 400;
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+h2:hover .heading-anchor,
+h3:hover .heading-anchor,
+.heading-anchor:focus {
+  opacity: 1;
+}
+
+.heading-anchor:hover {
+  color: #0891b2;
+  text-decoration: none;
+}
+
 /* Content Tables */
 .content table {
   width: 100%;
