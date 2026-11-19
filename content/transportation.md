@@ -12,7 +12,38 @@ There's no public transport on Koh Lanta. Most people rent a scooter and that's 
 
 ## Getting to the island
 
-Most people fly into Krabi and take a shared minivan or private transfer to Koh Lanta, about 2 to 2.5 hours including the car ferry. See [Krabi Airport to Koh Lanta](/krabi-airport-to-koh-lanta/) for prices and transfer companies, or [getting to Koh Lanta](/getting-here/) for all routes.
+Most people fly into <a href="https://www.google.com/maps/search/?api=1&query=Krabi+Airport" target="_blank" rel="noopener">Krabi Airport</a> and then take a transfer to Koh Lanta. The drive takes about 2 to 2.5 hours depending on traffic and ferry wait times. For the full route from Bangkok, Phuket or the nearby islands, see [getting to Koh Lanta](/getting-here/).
+
+A few options for the airport transfer:
+
+- **Shared minivan** - Cheapest option at around 350-500 THB per person. They wait until the van is full before leaving, so timing is unpredictable. Can be cramped.
+- **Private minivan** - Around 2,500-3,000 THB for the whole vehicle. Worth it if you're traveling with others or have a lot of luggage. Book in advance.
+- **Taxi** - Similar price to a private minivan. Available at the airport but better to arrange ahead of time.
+
+### Transfer services
+
+<div class="contact-grid">
+  <div class="contact-card">
+    <strong>Andaman Thai Travel</strong>
+    <a href="https://www.andamanthaitravel.com/en/index?ref=lantanomads.com" target="_blank" rel="noopener">andamanthaitravel.com</a>
+  </div>
+  <div class="contact-card">
+    <strong>Mun Lanta</strong>
+    <a href="https://munlanta.com/?ref=lantanomads.com" target="_blank" rel="noopener">munlanta.com</a>
+  </div>
+  <div class="contact-card">
+    <strong>Go2Lanta</strong>
+    <a href="https://go2lanta.com/?ref=lantanomads.com" target="_blank" rel="noopener">go2lanta.com</a>
+  </div>
+  <div class="contact-card">
+    <strong>Bao Lanta Transfer</strong>
+    <a href="https://wa.me/66802247060" target="_blank" rel="noopener">+66 80 224 7060</a>
+  </div>
+  <div class="contact-card">
+    <strong>Lanta Living Tour</strong>
+    <a href="https://wa.me/66954141888" target="_blank" rel="noopener">+66 95 414 1888</a>
+  </div>
+</div>
 
 ## Scooter rental
 

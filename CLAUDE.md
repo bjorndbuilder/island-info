@@ -42,7 +42,6 @@ Pushing to `main` triggers the GitHub Actions deploy workflow (`.github/workflow
 ## Content Conventions
 
 - Every new content page **must** set `group`, `weight` and `icon` in front matter, otherwise it is silently omitted from the homepage and becomes an orphan page (in the sitemap, but unreachable by crawlers and users). Valid `group` values are defined in `layouts/index.html`: `getting-started`, `work`, `food-and-going-out`, `explore`, `practical`.
-- Exception: route pages (`bangkok-to-koh-lanta.md`, `chiang-mai-to-koh-lanta.md`, `krabi-airport-to-koh-lanta.md`) deliberately have no `group`, to keep the homepage short. They're linked from `/getting-here/` (the routes hub) instead. New route pages follow the same pattern and must be added to the hub's route table.
 - Also link new pages contextually from a topically related page, not just from the homepage.
 - Content files link to locations with either a Google Maps search link (`https://www.google.com/maps/search/?api=1&query=Place+Name+Koh+Lanta`) or a Google Maps short link to an exact pin (`https://maps.app.goo.gl/...`). Prefer a short link when you have the exact location — especially for small or hard-to-find spots — otherwise a search link is fine.
 - Markdownlint config (`.markdownlint.json`) disables: line length (MD013), multiple top-level headings (MD025), trailing punctuation in headings (MD026), ordered list numbering (MD029), and link/image reference definitions (MD060).

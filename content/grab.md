@@ -11,7 +11,7 @@ No. Grab doesn't work on Koh Lanta, and neither does Bolt or any other ride-hail
 
 If you're coming from Bangkok, Chiang Mai, or even Krabi town, you're used to opening an app and having a car show up. That won't happen here.
 
-Need a ride right now? Message one of the [taxi drivers below](#how-people-actually-get-around). Flying into Krabi? Book an [airport transfer](/krabi-airport-to-koh-lanta/) ahead of time.
+Need a ride right now? Message one of the [taxi drivers below](#how-people-actually-get-around). Flying into Krabi? Book an [airport transfer](/transportation/#getting-to-the-island) ahead of time.
 
 ## How people actually get around
 
@@ -41,8 +41,6 @@ Tuk-tuks are common around <a href="https://www.google.com/maps/search/?api=1&qu
 You can. Grab works in Krabi town, and some drivers will take you all the way to the island. Just know that it's a bad deal for them. Once they drop you off, there's nobody to pick up on the way back. That's 2+ hours of empty driving on their dime.
 
 If you go this route, tip well. Really well. Or consider getting dropped at the car ferry pier on the mainland side and grabbing a tuk-tuk once you cross. Saves the driver the dead return trip and you'll still get to your hotel just fine.
-
-For shared minivans and private transfers from the airport, see [Krabi Airport to Koh Lanta](/krabi-airport-to-koh-lanta/).
 
 ## Will Grab ever come to Koh Lanta?
 
